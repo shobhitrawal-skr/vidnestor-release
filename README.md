@@ -32,6 +32,8 @@ No installation needed – it's portable!
 
 
 
+
+
 🚀 Usage
 
 1.Launch the app.
@@ -42,6 +44,8 @@ No installation needed – it's portable!
 
 
 
+
+
 🛠️ Tech Stack
 
 1.Python 🐍
@@ -49,6 +53,7 @@ No installation needed – it's portable!
 3.yt-dlp for downloading
 4.FFmpeg for media conversion
 5.PyInstaller for packaging
+
 
 
 
