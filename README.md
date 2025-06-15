@@ -2,7 +2,8 @@
 
 Vidnestor is a modern, lightweight, and easy-to-use desktop application that allows you to download videos and audios from YouTube with just a few clicks. Whether it's a single video, an entire playlist, or just the audio tracks — Vidnestor has you covered.
 
-![logo](https://github.com/user-attachments/assets/cae5ca33-f01d-4a80-a3e4-55812378aa40)
+![vidnestor](https://github.com/user-attachments/assets/b6835b29-2ba7-48c5-b172-ec689a2ec8a6)
+
 
 
 ✨ Features
