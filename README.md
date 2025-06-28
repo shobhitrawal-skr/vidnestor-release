@@ -1,4 +1,4 @@
-# 🎥 VidNestor v1.0.0 – YouTube Video & Audio Downloader
+# 🎥 VidNestor  – YouTube Video & Audio Downloader
 
 **VidNestor** is a modern, lightweight, and easy-to-use desktop application that allows you to download videos and audios from YouTube with just a few clicks. Whether it's a single video, an entire playlist, or just the audio tracks - VidNestor has you covered.
 
