@@ -20,7 +20,7 @@
 ## 📦 Installation
 
 ### 🪟 Windows (Executable)
-1. Download the latest version from the [Releases](https://github.com/shobhitrawal-skr/vidnestor-release/releases/tag/v1.0.0) section.
+1. Download the latest version from the [Releases](https://github.com/shobhitrawal-skr/vidnestor-release/releases/tag/v1.0.1) section.
 2. Double-click the `vidnestor.exe` file to run the application.
 3. No installation needed – it's portable!
 
